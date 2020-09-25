@@ -1,5 +1,3 @@
-// 13277
-
 package JavaTutoring;
 
 import java.util.*;
