@@ -1,10 +1,9 @@
 package JavaTutoring;
-
 import java.util.*;
 import java.io.*;
 
-//sort : µ¥ÀÌÅÍ°¡ ÀûÀ»¼ö·Ï ºü¸£´Ù
-//parellel? sort : µ¥ÀÌÅÍ°¡ ¸¹À»¼ö·Ï ºü¸£´Ù
+//sort : ë°ì´í„°ê°€ ì ì„ìˆ˜ë¡ ë¹ ë¥´ë‹¤
+//parellel? sort : ë°ì´í„°ê°€ ë§ì„ìˆ˜ë¡ ë¹ ë¥´ë‹¤
 
 public class day02_1 {
 
