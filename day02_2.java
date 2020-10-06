@@ -36,5 +36,6 @@ public class Main {
 		hM.put("apple", "사과");
 		hM.put("banana", "바나나");
 		System.out.println("apple = "+ hM.get("apple")); //삭제하고싶을땐 hM.remove("apple") // 전체 제거 hM.clear(); // 
+	}
 
 }
